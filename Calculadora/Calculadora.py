@@ -48,5 +48,23 @@ def calculadora():
         print('Insira uma opção válida.')
         
     
+#adicionado uma estrututra para calcular novamente ou não
+
+def repetir():
+    
+    repetir_calc = input('''
+                         Você deseja calcular novamente? 
+                         Se sim, digite (S) ou (N) para sair.
+                         ''')
+    
+    if repetir_calc == 'S':
+        calculadora()
         
+    elif repetir_calc == 'N':
+        calculadora()
+
+    else:
+        repetir()
+
+#chamando a função
 calculadora()
