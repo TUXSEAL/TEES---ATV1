@@ -34,3 +34,22 @@ npm run start
 ```bash
 npm run test
 ```
+## Author
+
+👤 **Franck Abgrall**
+
+- Twitter: [@FranckAbgrall](https://twitter.com/FranckAbgrall)
+- Github: [@kefranabg](https://github.com/kefranabg)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!<br />
+Feel free to check the [issues page](#).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
