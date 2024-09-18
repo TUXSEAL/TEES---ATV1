@@ -49,6 +49,7 @@ Feel free to check the [issues page](#).
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+[![Patreon](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/seu_usuario)
 
 ## 📝 License
 
