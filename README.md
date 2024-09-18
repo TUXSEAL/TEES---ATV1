@@ -6,7 +6,7 @@
 ![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
 ![maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)
 ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
-![followers](https://img.shields.io/twitter/follow/:FranckAbgrall.svg?style=social)
+![followers](https://img.shields.io/twitter/followers/:FranckAbgrall.svg?style=social)
 
 > CLI that generates beautiful README.md files.
 
