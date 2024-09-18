@@ -1,4 +1,4 @@
-# Welcome to readme-md-generator 👋
+<h1 align="center">Welcome to readme-md-generator 👋</h1>
 
 ![version](https://img.shields.io/badge/version-0.5.0-blue.svg?cacheSeconds=2592000)
 ![npm](https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg)
