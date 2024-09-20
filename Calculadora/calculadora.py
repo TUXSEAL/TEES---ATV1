@@ -61,14 +61,21 @@ def repetir():
     Se sim, digite (S) ou (N) para sair.
     ''')
     
-    if repetir_calc == 'S':
+    if repetir_calc.upper() == 'S':
         calculadora()
         
-    elif repetir_calc == 'N':
+    elif repetir_calc.upper() == 'N':
         print("\t Saindo... Obrigado!")
 
     else:
         repetir()
 
-#chamando a função
+
+def bem_vindo():
+        print('''
+        Começar a calcular
+        ''')
+
+
+bem_vindo()
 calculadora()
